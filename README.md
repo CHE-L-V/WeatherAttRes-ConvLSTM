@@ -38,7 +38,7 @@ WeatherAttRes-ConvLSTM/
 
 1. 克隆仓库：
 ```bash
-git clone [repository_url]
+git clone https://github.com/CHE-L-V/WeatherAttRes-ConvLSTM.git
 cd WeatherAttRes-ConvLSTM
 ```
 
@@ -105,6 +105,6 @@ python inference.py
 
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
-## 联系方式
-
-[添加联系方式] 
+联系方式
+作者：[Chenchen Liu]
+邮箱：[120232232078@ncepu.edu.cn]
